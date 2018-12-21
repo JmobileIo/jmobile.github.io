@@ -1,4 +1,4 @@
-# Jekyll | Help Center
+# Jmobile.io | Help Center
 Simple and responsive Jekyll theme for help center.
 
 # Demo
