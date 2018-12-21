@@ -8,8 +8,8 @@
 # Site settings
 title: "Help Center"
 email: contact@jmobile.io
-description: "Simple and flexible Jekyll theme for help center."
-baseurl: "/jekyll-help-center-theme"
+description: "Welcome to Jmobile HelpCenter"
+baseurl: ""
 url: "http://jmobile.io"
 twitter_username: "jmobile_io"
 github_username:  "jmobileio"
