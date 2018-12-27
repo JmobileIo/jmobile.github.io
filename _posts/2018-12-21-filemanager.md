@@ -3,7 +3,7 @@ layout: post
 title: "JM FILEMANAGER"
 description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 date: 2018-12-21 09:46:41 +0900
-categories: start blog
+categories: FILEMANAGER
 by: 'met'
 icon: 'loader'
 questions:

@@ -5,8 +5,8 @@
     <description>Welcome to Jmobile HelpCenter</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Dec 2018 17:02:41 +0900</pubDate>
-    <lastBuildDate>Fri, 21 Dec 2018 17:02:41 +0900</lastBuildDate>
+    <pubDate>Thu, 27 Dec 2018 14:45:56 +0900</pubDate>
+    <lastBuildDate>Thu, 27 Dec 2018 14:45:56 +0900</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -18,9 +18,7 @@
         <guid isPermaLink="true">http://localhost:4000/instant/</guid>
         
         
-        <category>start</category>
-        
-        <category>blog</category>
+        <category>INSTANT</category>
         
       </item>
     
@@ -33,9 +31,11 @@
         <guid isPermaLink="true">http://localhost:4000/hd_video_downloader/</guid>
         
         
-        <category>start</category>
+        <category>HD</category>
         
-        <category>blog</category>
+        <category>VIDEO</category>
+        
+        <category>DOWNLOADER</category>
         
       </item>
     
@@ -48,9 +48,7 @@
         <guid isPermaLink="true">http://localhost:4000/filemanager/</guid>
         
         
-        <category>start</category>
-        
-        <category>blog</category>
+        <category>FILEMANAGER</category>
         
       </item>
     
